@@ -51,6 +51,3 @@ Pastikan kamu sudah punya Python terinstal (Python 3.x).
 ```bash
 python main.py
 
-🙌 Kontribusi
-Project ini dibuat sebagai latihan logika dan kontrol alur program.
-Jika kamu punya ide pengembangan (misalnya leaderboard, GUI, atau Web version), feel free to fork or pull request!
